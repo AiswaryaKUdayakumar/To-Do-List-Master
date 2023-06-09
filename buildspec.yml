@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    APP_NAME: "dist/todo-list"
+    APP_NAME: "todo-list"
 phases:
   install:
     runtime-versions:
